@@ -14,7 +14,7 @@ import {
 
 export default function App() {
   return (
-    <div className="container min-h-screen bg-white dark:bg-gray-900 body-font">
+    <div className="min-h-screen bg-white dark:bg-gray-900 body-font">
       <section className="text-gray-500">
         <div className="px-5 py-8 mx-auto flex flex-wrap">
           <div className="flex flex-col text-center w-full mb-20">
@@ -26,7 +26,7 @@ export default function App() {
             </h2>
           </div>
 
-          <div className="flex flex-wrap -m-4">
+          <div className="flex flex-wrap justify-center -m-4">
             <Card title="education" icon={<Education />} />
             <Card title="recreational" icon={<Recreational />} />
             <Card title="social" icon={<Social />} />

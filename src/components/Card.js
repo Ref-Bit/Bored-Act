@@ -48,7 +48,7 @@ export default function Card({ title, icon }) {
             </div>
             <button
               id={`reload-${title}`}
-              className="mb-8 focus:outline-none"
+              className="mb-2 pl-6 lg:mb-8 xl:mb-8 focus:outline-none"
               type="button"
               title="Get a new random activity"
               onClick={handleClick}
