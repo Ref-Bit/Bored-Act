@@ -1,0 +1,9 @@
+export { default as Education } from './Education';
+export { default as Recreational } from './Recreational';
+export { default as Social } from './Social';
+export { default as DIY } from './DIY';
+export { default as Charity } from './Charity';
+export { default as Cooking } from './Cooking';
+export { default as Relaxation } from './Relaxation';
+export { default as Music } from './Music';
+export { default as Busy } from './Busy';
