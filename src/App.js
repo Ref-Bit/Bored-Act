@@ -27,15 +27,15 @@ export default function App() {
           </div>
 
           <div className="flex flex-wrap -m-4">
-            <Card title="Education" icon={<Education />} />
-            <Card title="Recreational" icon={<Recreational />} />
-            <Card title="Social" icon={<Social />} />
-            <Card title="DIY" icon={<DIY />} />
-            <Card title="Charity" icon={<Charity />} />
-            <Card title="Cooking" icon={<Cooking />} />
-            <Card title="Relaxation" icon={<Relaxation />} />
-            <Card title="Music" icon={<Music />} />
-            <Card title="Busywork" icon={<Busy />} />
+            <Card title="education" icon={<Education />} />
+            <Card title="recreational" icon={<Recreational />} />
+            <Card title="social" icon={<Social />} />
+            <Card title="diy" icon={<DIY />} />
+            <Card title="charity" icon={<Charity />} />
+            <Card title="cooking" icon={<Cooking />} />
+            <Card title="relaxation" icon={<Relaxation />} />
+            <Card title="music" icon={<Music />} />
+            <Card title="busywork" icon={<Busy />} />
           </div>
         </div>
       </section>

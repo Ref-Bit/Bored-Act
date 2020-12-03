@@ -7,3 +7,4 @@ export { default as Cooking } from './Cooking';
 export { default as Relaxation } from './Relaxation';
 export { default as Music } from './Music';
 export { default as Busy } from './Busy';
+export { default as Reload } from './Reload';
